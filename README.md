@@ -23,8 +23,8 @@ A full-stack food ordering web application developed using **Laravel, PHP, MySQL
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/online-food-delivery-system.git
-cd online-food-delivery-system
+git clone https://github.com/sarashafique225/Online-Food-Delivery-System.git
+cd Online-Food-Delivery-System
 composer install
 cp .env.example .env
 php artisan key:generate
@@ -32,22 +32,10 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Restaurant Listing
-* Menu Page
-* Shopping Cart
-* Admin Dashboard
-
 ## 🎯 What I Learned
 
 * Laravel Framework
 * Full-Stack Web Development
-* MVC Architecture
-* Object-Oriented Programming
 * Database Design
 * RESTful APIs
 * Authentication & Authorization
