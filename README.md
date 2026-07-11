@@ -16,7 +16,7 @@ A full-stack food ordering web application developed using **Laravel, PHP, MySQL
 
 🛠️ Tech Stack
 
-* Frontend: HTML5, CSS3, Bootstrap, JavaScript, Blade
+* **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Blade
 * **Backend:** PHP, Laravel
 * **Database:** MySQL
 
