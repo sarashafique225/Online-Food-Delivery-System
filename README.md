@@ -20,6 +20,50 @@ A full-stack responsive food delivery web app built with **Laravel 11, Bootstrap
 - Dashboard with health stats and order history
 - Secure login & registration
 
+---
+
+## 🎥 Project Demo
+
+▶️ **Watch the complete project demonstration**
+
+[📹 View Demo Video](demo/FoodExpressDemo.mp4)
+
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Homepage
+![Homepage](screenshots/Homepage.jpeg)
+
+### 👤 Registration
+![Registration](screenshots/registrationpage.jpeg)
+
+### 🔐 Login
+![Login](screenshots/LoginPage.jpeg)
+
+### 📊 Dashboard
+![Dashboard](screenshots/Dashboard.jpeg)
+
+### 🍽 Restaurants Overview
+![Restaurants](screenshots/RestaurantsOverview1.jpeg)
+
+![Restaurants](screenshots/RestaurantsOverview2.jpeg)
+
+![Restaurants](screenshots/RestaurantsOverview3.jpeg)
+
+![Restaurants](screenshots/RestaurantsOverview4.jpeg)
+
+### 📋 Restaurant Details
+![Restaurant](screenshots/RestaurantInsight.jpeg)
+
+![Restaurant](screenshots/RestaurantInsight1.jpeg)
+
+### 🤖 AI Food Mood Bot
+![AI Food Mood Bot](screenshots/AI-FoodMoodBot.jpeg)
+
+### 🛒 Shopping Cart
+![Shopping Cart](screenshots/FoodCart.jpeg)
+
 ## 🚀 Installation
 ```bash
 git clone https://github.com/sarashafique225/Online-Food-Delivery-System.git
