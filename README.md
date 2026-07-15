@@ -23,12 +23,10 @@ A full-stack responsive food delivery web app built with **Laravel 11, Bootstrap
 ---
 
 ## 🎥 Project Demo
+▶️ **Watch the complete project walkthrough on LinkedIn:**
 
-
-
-▶️ **Watch the complete project demonstration**
-
-[📹 View Demo Video](https://github.com/sarashafique225/Online-Food-Delivery-System/blob/main/DemoVideo/FoodExpressDemo.mp4)
+🔗 
+https://www.linkedin.com/posts/sara-s-812a1330b_laravel-php-fullstackdevelopment-ugcPost-7483005538222583809-6T8g/?utm_source=share&utm_medium=member_android&rcm=ACoAAE7-kc4BR6-YIbUqKCJkKKPxyninpHbL49o
 
 ---
 
